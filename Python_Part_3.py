@@ -4,7 +4,7 @@ import random
 import discord
 
 # global var
-TOKEN = ""
+TOKEN = "Your TOKEN"
 PREFIX = "!"
 
 # discord objs
