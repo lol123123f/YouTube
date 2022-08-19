@@ -5,7 +5,7 @@ import discord_components
 
 
 # global var
-TOKEN = "MTAwMzU0NDExMDQ2NjA4NDk0NQ.GqjNy7.8p7GNXm1HnCsICjjRdQqtKgQ3yAYPqeywmwO-E"
+TOKEN = "Token Here"
 PREFIX = "!"
 
 # discord objs
