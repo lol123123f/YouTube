@@ -1,7 +1,7 @@
 import ebDiscord, discord
 
-ebbot = ebDiscord.settings(token="MTAwMzU0NDExMDQ2NjA4NDk0NQ.GDbu_6.IlwDLG-wMfFjXFNbZTislJGF_2SeFLdG6iEMPY",
-                           server_id=932680938251493376,
+ebbot = ebDiscord.settings(token="*********************************",
+                           server_id=11111111111111111111,
                            start_message="Bot started!")
 
 
